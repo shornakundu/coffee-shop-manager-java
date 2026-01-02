@@ -1,8 +1,8 @@
-# Bora’s Café
+# Coffee Shop Manager
 
 ## Overview
 
-Dora’s Café is a Java Swing–based simulation game where the player manages a small café over multiple days. Each day, the player buys ingredients, reacts to weather conditions, and decides whether to advertise in order to maximize profit. The goal is to grow the café’s money balance while avoiding running out of funds.
+Bora’s Café is a Java Swing–based simulation game where the player manages a small café over multiple days. Each day, the player buys ingredients, reacts to weather conditions, and decides whether to advertise in order to maximize profit. The goal is to grow the café’s money balance while avoiding running out of funds.
 
 The game combines decision-making, resource management, and randomness to create different outcomes each playthrough.
 
